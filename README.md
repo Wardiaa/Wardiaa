@@ -11,7 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Wardiaa&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 <br/>
 ![](https://streak-stats.demolab.com/?user=Wardiaa&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wardiaa&layout=compact&theme=dark&hide_border=false)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
